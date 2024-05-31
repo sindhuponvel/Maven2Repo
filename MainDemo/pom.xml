@@ -3,7 +3,7 @@
   <groupId>MainDemo</groupId>
   <artifactId>MainDemo</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <profiles>
+   <profiles>
 	  <profile>
 		  <id>SmokeTest</id>
 		   <build>
@@ -47,6 +47,7 @@
 	  </profile>
 	 
   </profiles>
+  
   
    <dependencies>
 	  <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
